@@ -1,4 +1,4 @@
-pathlib.py==1.0.1
+pathlib.py==0.6
 importlib.util.py==0.16.12
 discord.py==0.16.12
 pip.py==0.16.12
